@@ -1,0 +1,48 @@
+id,value
+flare,
+flare.vis,
+
+
+
+flare.vis.Named,
+flare.vis.Named.Name, 0.0374415409346
+
+flare.vis.AgeOfPet,
+flare.vis.AgeOfPet.Age, 0.745299075866
+
+
+flare.vis.Sex,
+flare.vis.Sex.Neutered, 0.0289607008198
+flare.vis.Sex.Male, 0.0112214415074
+
+
+flare.vis.Intake_Condition,
+flare.vis.Intake_Condition.Normal, 0.0197212806946
+flare.vis.Intake_Condition.Sick, 0.0145923776294
+flare.vis.Intake_Condition.Injured, 0.00629563162535
+
+flare.vis.IntakeType,
+flare.vis.IntakeType.Stray, 0.032687639135
+flare.vis.IntakeType.Owner Surrender, 0.0294893389101
+
+flare.vis.color,
+flare.vis.color.Black, 0.00720339342161
+flare.vis.color.White, 0.00716720377762
+flare.vis.color.Hybrid color, 0.00583318025075
+flare.vis.color.Brown, 0.00571820937563
+flare.vis.color.Blue, 0.00472739359636
+flare.vis.color.Orange, 0.00447472985756
+
+flare.vis.breed,
+flare.vis.breed.Domestic medium, 0.00488401910297
+flare.vis.breed.Domestic long, 0.00405703581862
+flare.vis.breed.Domestic short, 0.00768904163388
+flare.vis.breed.Siamese, 0.00345244912543
+
+flare.vis.coat_pattern,
+flare.vis.coat_pattern.Tabby, 0.00566765471747
+flare.vis.coat_pattern.Tortie, 0.0038713172504
+flare.vis.coat_pattern.Point, 0.00317910289583
+flare.vis.coat_pattern.Calico, 0.00301980406105
+flare.vis.coat_pattern.Smoke, 0.0016751540846
+flare.vis.coat_pattern.Torbie, 0.00167128390818
