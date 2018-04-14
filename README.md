@@ -8,9 +8,9 @@ To build a classification model to predict whether a cat would be adopted or not
 ### Data Sources
 https://data.austintexas.gov/ 
 
-<img src='images/ROC curves.png'>
+<img src='images/ROC curves.png' width=70%>
 
-Files included
+### Files included
 
 01 - Kickstart data.ipynb - Jupyter notebook consisting of the scraping of Kickstarter website.
 02 - Kickstarter NLP.ipynb - Jupyter notebook where the data is prepocessing and topics are modelled.
