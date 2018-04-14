@@ -20,6 +20,7 @@ The figure below shows how the diiferent models performed on the classification 
 ### Files included
 
 01 - Data Cleaning and EDA.ipynb - Jupyter notebook consisting of the data cleaning, feature engineering and EDA.
+
 02 - Classification.ipynb - Jupyter notebook where different classification models are built and their performances are compared.
 
 Also, you can click here to find my blog post on this project.
