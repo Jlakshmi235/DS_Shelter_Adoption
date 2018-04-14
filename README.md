@@ -24,7 +24,7 @@ The figure below shows how the diiferent models performed on the classification 
 02 - Classification.ipynb - Jupyter notebook where different classification models are built and their performances are compared.
 
 index.html - d3 bubble graph that shows the variable importance of the features.
-- Run your local server to see how things look! 
+Run your local server to see how things look! 
 ```
 # for Python 2
 python -m SimpleHTTPServer 8000
